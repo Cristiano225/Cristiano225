@@ -16,6 +16,7 @@
   <img src="https://www.sonarqube.org/features/multi-languages/index/apex-color.svg" title="Apex" alt="Apex" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pngwing.com%2Fpt%2Ffree-png-ivlcs&psig=AOvVaw35-mAJ_xJ11kmBkq4uQah5&ust=1675713444468000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCPCwzZaV__wCFQAAAAAdAAAAABAQ" title="figma" alt="Figma" width="40" height="40"/>&nbsp;
 </div>
 
 ---

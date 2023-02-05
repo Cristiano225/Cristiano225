@@ -13,7 +13,7 @@
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://www.salesforce.com/content/dam/sfdc-docs/www/resources/campaign-assets/live-long-and-propser/images/logo.png" title="Salesforce" alt="Salesforce" width="40" height="40"/>&nbsp;
-  <img src="https://www.sonarqube.org/features/multi-languages/index/apex-color.svg" title="Apex" alt="Apex" width="40" height="40"/>&nbsp;
+  <img src="https://storage.googleapis.com/rapitek-company-website.appspot.com/uploads/froala_editor/images/1663577562488.png" title="Apex" alt="Apex" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://w7.pngwing.com/pngs/431/965/png-transparent-figma-designer-computer-icons-material-design-design-rectangle-poster-logo.png" title="figma" alt="Figma" width="40" height="40"/>&nbsp;
